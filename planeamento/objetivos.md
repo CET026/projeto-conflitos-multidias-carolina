@@ -6,3 +6,4 @@
 - Melhorar a organização pessoal
 - Aumentar a produtividade
 - Aprender coisas novas
+- Tirar conclusões
