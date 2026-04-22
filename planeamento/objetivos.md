@@ -1,6 +1,6 @@
 # Objetivos
 - Estudar regularmente
 - Cumprir tarefas diárias
-- Melhorar organização
-- Ser mais produtivo
+- Melhorar a organização pessoal
+- Aumentar a produtividade
 - Aprender coisas novas
