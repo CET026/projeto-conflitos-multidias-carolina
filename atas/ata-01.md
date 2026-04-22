@@ -18,4 +18,4 @@ Cada membro irá cumprir as suas tarefas atribuídas
 Reuniões semanais às segundas-feiras
 
 ## Encerramento:
-A reunião terminou às 17:00.
+A reunião terminou às 18:00.
