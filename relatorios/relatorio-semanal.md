@@ -14,5 +14,5 @@ Tarefas cumpridas dentro do prazo
 Melhor organização da semana
 
 ## Observações:
-Continuar a melhorar a gestão do tempo
-Manter rotina de estudo
+Melhorar a organização do tempo
+Manter consistência nos estudos
