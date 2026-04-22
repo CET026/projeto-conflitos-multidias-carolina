@@ -1,6 +1,6 @@
 # Objetivos
-- Estudar regularmente
+- Criar uma rotina de estudo consistente
 - Cumprir tarefas diárias
-- Melhorar organização
-- Ser mais produtivo
+- Organizar melhor o tempo diário
+- Reduzir distrações e aumentar o foco
 - Aprender coisas novas
